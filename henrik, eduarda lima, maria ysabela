@@ -1,0 +1,56 @@
+!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>LANCHONETE H&M</title>
+    <link rel="stylesheet" href="estilo.css" />
+</head>
+<body>
+ 
+    <header class="cabecalho">
+<div class="container cabecalho-conteudo">
+<img class="logo" src="Logo Lanchonete Chamativo Vermelho e Laranja.png" alt="logo da lanchonete">
+
+<h1class="titulo">lanchonete h&m</h1>
+<div class="espaco"></div>
+</div>
+</header>
+<main class="container conteudo">
+<h2>Nossos salgados</h2>   
+<p class="subtexto"> Confira algumas opções deliciosas:</p>
+
+<section class="grande-salgados">
+    <article class="card">
+        <img coxinha.jpg alt="Coxinha">
+        <h3>Coxinha</h3>
+        <p>recheio de frango bem temperado e massa crocante.</p>
+ </article>
+
+ <aeticle class="card">
+    <img src="" alt="Pastel">
+    <h3>Pastel</h3>
+    <p>Crocante e bem recheado (carne,queijo ou frango).</p>
+ </aeticle>
+
+ <article class="card">
+    <img src="" alt="Empada">
+    <h3>Empada</h3>
+    <p>Massa leve e recheio cremoso de frango ou paltito.</p>
+ </article>
+ <article class="card">
+    <img src="" alt="Esfira">
+    <h3>Esfira</h3>
+    <p>Assada na hora, macia e muito saborosa.</p>
+ </article>  
+ </section>
+ </main>
+ <footer class="rodape">
+ <div class="container">
+    <p> ©2026 LANCHONETE H&M - Todos os direitos reservados.</p>
+    </div>
+    </footer>
+    
+</body>
+</html>
